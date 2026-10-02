@@ -25,14 +25,8 @@ public:
 
             
             temp1 = temp1->next;
-            // count = +1;
         }
-            // count = count / 2 + 1;
-            // temp = head;
-            // for(int i = 1;i<=count;i++)
-            // {
-            //     temp = temp->next;
-            // }
+            
             return temp1;
     }
 };
