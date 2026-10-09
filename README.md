@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prajwal758890/leetcode/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/prajwal758890/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prajwal758890/leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/prajwal758890/leetcode/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prajwal758890/leetcode/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/prajwal758890/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
